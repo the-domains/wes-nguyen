@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MarTechMuse]]></title>
         <description><![CDATA[MarTechMuse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wes-nguyen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 02:20:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 02:21:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wes-nguyen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marketing Technology is Changing the World. And Marketers Are Getting Left Behind.]]></title>
-            <description><![CDATA[<article><h1>Marketing Technology is Changing the World. And Marketers Are Getting Left Behind.</h1><p>By Katherine Ogburn, Director of Strategy, Ready State In an early episode of Mad Men, Don Draper spars with a researcher about the value of the customer insights she'd collected. Don argued that creatives need to show the future, not the past, and that data couldn't show a brand where to go.</p><img src="http://images.huffingtonpost.com/2016-07-19-1468936130-2183408-leftbehind-thumb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Marketing Technology is Changing the World. And Marketers Are Getting Left Behind.</h1><p>By Katherine Ogburn, Director of Strategy, Ready State In an early episode of Mad Men, Don Draper spars with a researcher about the value of the customer insights she'd collected. Don argued that creatives need to show the future, not the past, and that data couldn't show a brand where to go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cdffc1d7028b12b8eb665a7098b8ade8/noop.jpg?input=http%3A%2F%2Fimages.huffingtonpost.com%2F2016-07-19-1468936130-2183408-leftbehind.jpg"></article>]]></description>
             <link>http://www.huffingtonpost.com/advertising-week/marketing-technology-is-c_b_11068410.html</link>
             <guid isPermaLink="false">ef63a8fe-bd81-4367-ad37-29b8b0126033</guid>
-            <pubDate>Sat, 23 Jul 2016 02:20:22 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2016 02:21:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
