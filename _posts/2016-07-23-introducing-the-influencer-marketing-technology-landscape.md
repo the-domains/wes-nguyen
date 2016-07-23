@@ -42,8 +42,8 @@ app_links:
 isBasedOnUrl: >-
   http://marketingland.com/introducing-influencer-marketing-technology-landscape-183951
 title: Introducing the "Influencer Marketing Technology Landscape"
-datePublished: '2016-07-23T02:31:20.579Z'
-dateModified: '2016-07-23T02:31:20.394Z'
+datePublished: '2016-07-23T02:31:20.423Z'
+dateModified: '2016-07-23T02:31:20.323Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-07-23-introducing-the-influencer-marketing-technology-landscape.md
